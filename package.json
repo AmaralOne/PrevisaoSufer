@@ -1,0 +1,24 @@
+{
+  "name": "previsaosufer",
+  "version": "1.0.0",
+  "description": "Typescript Node.Js API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmaralOne/PrevisaoSufer.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typecript",
+    "api"
+  ],
+  "author": "flavio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmaralOne/PrevisaoSufer/issues"
+  },
+  "homepage": "https://github.com/AmaralOne/PrevisaoSufer#readme"
+}
